@@ -13,6 +13,7 @@ print(l)
 
 print("6,7  removed in following list ")
 l.pop(6)
+l.pop(3)
 print(l)
 
 print("Reversed list ")
